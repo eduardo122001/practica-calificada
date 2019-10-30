@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1572446091 source:c:\users\alumno-e\desktop\practica\main.cpp
+	<iostream>
+	"Empleado.h"
+
+1572445942 c:\users\alumno-e\desktop\practica\include\empleado.h
+
+1572446028 source:c:\users\alumno-e\desktop\practica\src\empleado.cpp
+	"Empleado.h"
+
